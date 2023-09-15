@@ -10,3 +10,9 @@ docs.zip
 
 out
 output-basic-example
+
+packer_cache/
+crash.log
+*.pkrvars.hcl
+*.box
+output-*/
